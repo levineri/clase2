@@ -1,0 +1,33 @@
+/*
+Creador Andrés Levineri <levineridesign@gmail.com>
+Archivo principal 
+*/
+p{
+	font-family: helvetica, arial, sans-serif; 
+	font-size: 24px; 
+	color:#ff0000;
+}
+h1{
+	color:gray;
+}
+	div h1{
+		color:red;
+	}
+ul{
+	padding-top:50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
+
+ul{
+	background: #3399ff;
+	padding:20px;
+}
+ul li{
+	background: #cce5ff;
+	margin:5px;
+	color:grey;
+
+
+}
